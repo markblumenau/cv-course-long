@@ -1,0 +1,6 @@
+ipython
+jupyterlab
+matplotlib
+numpy
+opencv-python-headless>=4.5,<5
+pillow
